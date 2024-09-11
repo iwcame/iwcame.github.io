@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iwcame.github.io/Jyg/sitemap.Jyg.gz
